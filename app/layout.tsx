@@ -12,7 +12,7 @@ const dancingScript = Dancing_Script({
 })
 
 export const metadata: Metadata = {
-  title: "Happy Birthday Sarah - A Romantic Surprise",
+  title: "Happy Birthday Sakhi - A Romantic Surprise",
   description: "A special romantic birthday website created with love",
   generator: "v0.app",
 }
